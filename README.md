@@ -1,4 +1,4 @@
-# Gameplay --- Aula 1 (em construção)
+# Gameplay --- Aulas 1 e 2  (em construção)
 
 Projeto criado durante a NLW Together 2021 da Rocketseat.
 
