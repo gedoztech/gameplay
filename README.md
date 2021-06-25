@@ -4,16 +4,20 @@ Projeto criado durante a NLW Together 6ª Edição da Rocketseat.
 
 Aplicativo mobile utilizando REACT NATIVE.
 
-Aplicativo para agendamento de jogos entre amigos através do discord.
+Aplicativo para agendamento de jogos entre amigos através do Discord.
+
+A integração com Discord é feita utilizando OAuth2 e JWT.
 
 Nas aulas, foi utilizado ambiente de desenvolvimento diretamente no sistema operacional do computador mas, neste projeto, também há a opção de trabalhar com Docker.
 
 <br>
 
-<img src="./docs/screen1.jpg" alt="Tela do Aplicativo: Splash" width="200"/>
-<img src="./docs/screen2.jpg" alt="Tela do Aplicativo: Splash" width="200"/>
-<img src="./docs/screen3.jpg" alt="Tela do Aplicativo: Splash" width="200"/>
-<img src="./docs/screen4.jpg" alt="Tela do Aplicativo: Splash" width="200"/>
+<p style="float:left">
+  <img src="./docs/screen1.jpg" alt="Tela do Aplicativo: Splash" width="200"/>
+  <img src="./docs/screen2.jpg" alt="Tela do Aplicativo: Sign In" width="200"/>
+  <img src="./docs/screen3.jpg" alt="Tela do Aplicativo: Autorização Discord" width="200"/>
+  <img src="./docs/screen4.jpg" alt="Tela do Aplicativo: Home" width="200"/>
+ </p>
 
 <br><br>
 
