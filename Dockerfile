@@ -1,6 +1,6 @@
 FROM node:lts
 
-ENV APP_NAME="gametest"
+ENV APP_NAME="gameplay"
 
 ARG NODE_ENV=production
 ENV NODE_ENV $NODE_ENV
@@ -19,16 +19,7 @@ WORKDIR /opt/$APP_NAME
 ENV PATH /opt/$APP_NAME/.bin:$PATH
 USER node
 COPY --chown=node:node ./package.json ./
-#RUN npm install
 RUN yarn
-RUN expo install expo-font @expo-google-fonts/inter 
-RUN expo install @expo-google-fonts/rajdhani
-RUN yarn add expo-app-loading
-RUN expo install expo-linear-gradient
-RUN yarn add react-native-iphone-x-helper
-RUN yarn add @react-navigation/native
-RUN expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-RUN yarn add @react-navigation/stack
 
 ENTRYPOINT ["expo"]
 CMD ["start"]
