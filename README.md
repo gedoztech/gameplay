@@ -21,7 +21,7 @@ Nas aulas, foi utilizado ambiente de desenvolvimento diretamente no sistema oper
 
 <br><br>
 
-Versão Ladybug: !['Versão Ladybug'](https://github.com/johnny0408/gameplay/tree/ladybug)
+![Versão Ladybug: ](https://github.com/johnny0408/gameplay/tree/ladybug)
 
 <p style="float:left">
   <img src="./docs/screen1-ladybug.png" alt="Tela do Aplicativo: Splash" width="200"/>
