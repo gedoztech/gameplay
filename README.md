@@ -17,7 +17,18 @@ Nas aulas, foi utilizado ambiente de desenvolvimento diretamente no sistema oper
   <img src="./docs/screen2.jpg" alt="Tela do Aplicativo: Sign In" width="200"/>
   <img src="./docs/screen3.jpg" alt="Tela do Aplicativo: Autorização Discord" width="200"/>
   <img src="./docs/screen4.jpg" alt="Tela do Aplicativo: Home" width="200"/>
- </p>
+</p>
+
+<br><br>
+
+Versão Ladybug: !['Versão Ladybug'](https://github.com/johnny0408/gameplay/tree/ladybug)
+
+<p style="float:left">
+  <img src="./docs/screen1-ladybug.png" alt="Tela do Aplicativo: Splash" width="200"/>
+  <img src="./docs/screen2-ladybug.png" alt="Tela do Aplicativo: Sign In" width="200"/>
+  <img src="./docs/screen3-ladybug.png" alt="Tela do Aplicativo: Formulário de Agendamento" width="200"/>
+  <img src="./docs/screen4-ladybug.png" alt="Tela do Aplicativo: Home" width="200"/>
+</p>
 
 <br><br>
 
